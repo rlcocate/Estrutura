@@ -1,0 +1,5 @@
+I:\Workspace\DotNet\Estrutura\Estrutura.Model\bin\Debug\Estrutura.Model.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Model\bin\Debug\Estrutura.Model.pdb
+I:\Workspace\DotNet\Estrutura\Estrutura.Model\obj\Debug\Estrutura.Model.csproj.CoreCompileInputs.cache
+I:\Workspace\DotNet\Estrutura\Estrutura.Model\obj\Debug\Estrutura.Model.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Model\obj\Debug\Estrutura.Model.pdb

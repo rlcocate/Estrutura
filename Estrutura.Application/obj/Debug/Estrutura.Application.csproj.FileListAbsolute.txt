@@ -1,0 +1,13 @@
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Application.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Application.pdb
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Model.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Repository.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Dapper.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Model.pdb
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Estrutura.Repository.pdb
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\bin\Debug\Dapper.xml
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\obj\Debug\Estrutura.Application.csprojAssemblyReference.cache
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\obj\Debug\Estrutura.Application.csproj.CoreCompileInputs.cache
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\obj\Debug\Estrutura.Application.csproj.CopyComplete
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\obj\Debug\Estrutura.Application.dll
+I:\Workspace\DotNet\Estrutura\Estrutura.Application\obj\Debug\Estrutura.Application.pdb
