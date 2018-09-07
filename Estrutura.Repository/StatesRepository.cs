@@ -1,8 +1,9 @@
-﻿using Estrutura.Model;
+﻿using Estrutura.Implementation.Repository;
+using Estrutura.Model;
 
 namespace Estrutura.Repository
 {
-    public class StatesRepository: SqlBaseRepository<States>
+    public class StatesRepository: Repository<States>
     {
     }
 }

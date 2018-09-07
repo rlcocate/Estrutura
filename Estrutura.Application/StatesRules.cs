@@ -1,6 +1,7 @@
 ﻿using Estrutura.Model;
 using Estrutura.Repository;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Estrutura.Application
 {
@@ -8,20 +9,20 @@ namespace Estrutura.Application
     {
         public IEnumerable<States> GetAll()
         {
-            var repo = new StatesRepository();
-            return repo.GetAll();
+            StatesRepository repo = new StatesRepository();
+            return null; // repo.GetAll();
         }
 
         public States GetByName(string name)
         {
-            var repo = new StatesRepository();
-            return repo.GetByName(name);
+            StatesRepository repo = new StatesRepository();
+            return null; // repo.GetByName(name);
         }
 
         public void Insert(States state)
         {
-            var repo = new StatesRepository();
-            repo.Insert(state);
+            StatesRepository repo = new StatesRepository();
+            //repo.Insert(state);
         }
     }
 }
